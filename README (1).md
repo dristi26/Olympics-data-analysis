@@ -8,7 +8,3 @@ Interactive Streamlit dashboard
 Data visualizations with Seaborn, Matplotlib, and Plotly
 Analysis of Olympic data including medal tallies and athlete performances
 
-Contact
-LinkedIn: www.linkedin.com/in/vinayak-garg91
-
-Email: vinayakgarg91@gmail.com
